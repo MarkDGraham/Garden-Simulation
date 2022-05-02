@@ -15,11 +15,13 @@ public class WaterSpawner : MonoBehaviour
     {
         spawnTimer -= Time.deltaTime;
         if(spawnTimer <= 0 &&
-            transform.parent.rotation.eulerAngles.x <= upperTiltBound &&
-            transform.parent.rotation.eulerAngles.x >= lowerTiltBound)
+            transform.parent.eulerAngles.x <= upperTiltBound &&
+            transform.parent.eulerAngles.x >= lowerTiltBound)
         {
             Instantiate(waterDropletPrefab, transform.position, transform.rotation);
             spawnTimer = 0.1f;
         }
+
+        Debug.Log(transform.parent.rotation.eulerAngles.x);
     }
 }

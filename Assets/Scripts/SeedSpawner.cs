@@ -15,11 +15,13 @@ public class SeedSpawner : MonoBehaviour
     {
         spawnTimer -= Time.deltaTime;
         if (spawnTimer <= 0 &&
-            transform.parent.rotation.eulerAngles.z <= upperTiltBound &&
-            transform.parent.rotation.eulerAngles.z >= lowerTiltBound)
+            transform.parent.rotation.eulerAngles.z >= lowerTiltBound &&
+            transform.parent.rotation.eulerAngles.z <= upperTiltBound)
         {
             Instantiate(seedPrefab, transform.position, transform.rotation);
             spawnTimer = 0.1f;
         }
+
+        Debug.Log((transform.parent.rotation.eulerAngles.z <= upperTiltBound) + "  " + (transform.parent.rotation.eulerAngles.z <= lowerTiltBound));
     }
 }
