@@ -19,3 +19,4 @@ To do:
 • Add Strawberries
 • Update info sheet normals
 • Add textures to seed packets 
+• Make water droplets bigger
