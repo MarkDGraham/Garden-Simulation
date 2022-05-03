@@ -36,21 +36,21 @@ public class PlantLifeCycleEventSystem : MonoBehaviour
             seedCounter++;
         }
 
-        if(waterCounter == 30)
+        if(waterCounter == 30 && seedCounter > 5)
         {
             tomatoDirtStage1.SetActive(false);
             tomatoDirtStage2.SetActive(true);
             plantString.text = "Water plants 1 to 2 times a day depending on how warm the weather is.";
         }
 
-        if (waterCounter == 60)
+        if (waterCounter == 60 && seedCounter > 5)
         {
             tomatoDirtStage2.SetActive(false);
             tomatoDirtStage3.SetActive(true);
             plantString.text = "Needs 6-8 hours of direct sunlight for optimal growth!";
         }
 
-        if (waterCounter == 120)
+        if (waterCounter == 120 && seedCounter > 5)
         {
             tomatoDirtStage3.SetActive(false);
             tomatoDirtFinalStage.SetActive(true);
