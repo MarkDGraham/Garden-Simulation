@@ -6,7 +6,6 @@ Known bugs:
 • Actual floor is higher than ground plane.
 • Can teleport out of bounds.
 • Watering can pour angle is wrong.
-• Last plant stage is not spawning
 
 To do: 
 
