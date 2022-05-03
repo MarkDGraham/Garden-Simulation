@@ -21,7 +21,5 @@ public class SeedSpawner : MonoBehaviour
             Instantiate(seedPrefab, transform.position, transform.rotation);
             spawnTimer = 0.1f;
         }
-
-        Debug.Log((transform.parent.rotation.eulerAngles.z <= upperTiltBound) + "  " + (transform.parent.rotation.eulerAngles.z <= lowerTiltBound));
     }
 }

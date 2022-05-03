@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3247582174814810238}
   - component: {fileID: 8555601080143308926}
   - component: {fileID: 3586163922748515510}
+  - component: {fileID: -3844833384448992481}
   m_Layer: 0
   m_Name: SeedableDirt
   m_TagString: Untagged
@@ -95,3 +96,16 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.397932, y: 0.90287, z: 0.35134548}
   m_Center: {x: 0.0000038146973, y: -0.00036621088, z: -0.16831282}
+--- !u!114 &-3844833384448992481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3586163922748515509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ed711158949c4c44a77bb39bd838e19, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  plant: {fileID: 0}
