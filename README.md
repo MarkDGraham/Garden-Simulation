@@ -8,7 +8,6 @@ How to use: <br />
 • The watering can can only be used when turned at a specific angle (90 degrees counterclockwise about the axis of the arm) <br />
 
 Known bugs: <br />
-<br />
 • Info guide grabs on wrong side for the left hand. <br />
 • Actual floor is higher than ground plane. <br />
 • Can teleport out of bounds. <br />
