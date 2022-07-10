@@ -23,9 +23,9 @@ plants and little known facts about them and grow your own experience.
 • Parker Nelms - Asset & Level Designer <br />
 
 <a name="controls"><b>Controls:</b></a> <br />
-• Right Joystick - Snap turn
-• Trigger + Grip - Teleport
-• Trigger - Grab
+• Right Joystick - Snap turn <br />
+• Trigger + Grip - Teleport <br />
+• Trigger - Grab <br />
 
 <a name="run"><b>How to use:</b></a> <br />
 How to use: <br />
