@@ -2,7 +2,7 @@
 ## Group 3, CS 484: Virtual Reality
 
 ## Table of Contents:
-1) [Description](/description)
+1) [Description](#description)
 2) Collaborators (#collaborators) 
 3) [go to notable contributions](#notable contributions)
 4) [go to controls] (#controls)
