@@ -16,18 +16,18 @@ Group 3, CS 484: Virtual Reality
 gardening and how to start growing their own plants while learning more about those plants. Learn more <br />
 plants and little known facts about them and grow your own experience.
 
-<a name="collaborators"> <b>Collaborators:</b></a>
+<a name="collaborators"> <b>Collaborators:</b></a> <br />
 • Bailey Fasick - Project Lead  <br />
 • Kamryn Montegna - Project Lead <br />
 • Mark Graham - Game Programmer <br />
 • Parker Nelms - Asset & Level Designer <br />
 
-<a name="controls"><b>Controls:</b></a>
+<a name="controls"><b>Controls:</b></a> <br />
 • Right Joystick - Snap turn
 • Trigger + Grip - Teleport
 • Trigger - Grab
 
-<a name="run"><b>How to use:</b></a>
+<a name="run"><b>How to use:</b></a> <br />
 How to use: <br />
 • Once you have entered the game, pick up the instruction guide to your left by using the grip button <br /> 
 &emsp;when pointing the laser at it. <br />
@@ -39,16 +39,16 @@ How to use: <br />
 &emsp;about the axis of the arm) <br />
 
 
-<a name="run"><b>Known bugs:</b></a>
+<a name="run"><b>Known bugs:</b></a> <br />
 • Info guide grabs on wrong side for the left hand. <br />
 • Actual floor is higher than ground plane. <br />
 • Can teleport out of bounds. <br />
 • Watering can pour angle is wrong. <br />
 • Seed packet pour angle is wrong. <br />
 
-<a name="links"><b>Links:</b></a>
+<a name="links"><b>Links:</b></a> <br />
 
-<a name="tags"><b>Tags:</b></a>
+<a name="tags"><b>Tags:</b></a> <br />
 • Unity <br />
 • Blender <br />
 • C# <br />
