@@ -28,7 +28,6 @@ plants and little known facts about them and grow your own experience.
 • Trigger - Grab <br />
 
 <a name="run"><b>How to use:</b></a> <br />
-How to use: <br />
 • Once you have entered the game, pick up the instruction guide to your left by using the grip button <br /> 
 &emsp;when pointing the laser at it. <br />
 • Follow instructions layed out in the instruction guide <br />
